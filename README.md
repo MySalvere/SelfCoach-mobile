@@ -1,2 +1,1 @@
 # SelfCoach-mobile
-# SelfCoach-backend
